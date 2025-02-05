@@ -8,9 +8,7 @@ const LoginPage = () => {
       <h1>Login Page</h1>
       <Grid2 container spacing={2}>
         <Grid2 size={{ xs: 12 }}>
-          <div>
-            <TextField label="Username" variant="outlined" fullWidth required />
-          </div>
+          <TextField label="Username" variant="outlined" fullWidth required />
         </Grid2>
 
         <Grid2 size={{ xs: 12 }}>
