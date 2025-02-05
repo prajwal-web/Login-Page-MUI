@@ -1,6 +1,5 @@
 import "./App.css";
-import LoginPage from "./Components/LoginPage";
-
+import LoginPage from "./Components/LoginPage.tsx";
 function App() {
   return (
     <>
